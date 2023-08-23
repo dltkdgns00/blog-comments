@@ -1,2 +1,2 @@
 # blog-comments
-blog.dltkdgns00.tk-comments
+blog.sldev.kr-comments
